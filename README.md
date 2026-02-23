@@ -1,2 +1,5 @@
-# Curso_Ing_Software
-"Tareas de Ingeniería de Software, Estadística y ML - UCV".
+## Materias:
+* **Ingeniería de Software:** Metodologías y Git.
+* **Estadística y Probabilidad:** Modelos matemáticos.
+* **Machine Learning:** Inteligencia Artificial.
+* **Proyectos:** Implementación final.
